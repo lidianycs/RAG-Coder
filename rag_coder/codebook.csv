@@ -1,0 +1,109 @@
+﻿id;category;factor;description
+1;Gestão/Gerência;Gerência;Boa gestão (suporte à alta administração, formação de equipe, boa comunicação)/gerente atencioso
+2;Gestão/Gerência;Autonomia;Liberdade para realizar tarefas, permitindo que os papéis evoluam
+3;Gestão/Gerência;Prioridades bem definidas;
+4;Gestão/Gerência;Objetivos bem definidos;Objetivos e metas claros
+5;Gestão/Gerência;Apreciação pelo trabalho;Necessidades de respeito e apreço
+6;Gestão/Gerência;Feedback;Necessidade de feedback (reconhecimento pelo trabalho)
+7;Gestão/Gerência;Planejamento de reuniões;Reuniões organizadas, com planejamento e uso adequado do tempo
+8;Organização;Visão da empresa;
+9;Equipe;Colaboração;Cultura colaborativa da equipe
+10;Equipe;Cultura do time;
+11;Equipe;Colegas de trabalho qualificados;"Colegas se atualizam com tecnologias e práticas de  desenvolvimento moderno
+"
+12;Equipe;Interações sociais;"Interações, eventos e conexões sociais entre equipe
+membros"
+13;Equipe;Empatia;Habilidade social que pode afetar a colaboração, a comunicação e as relações entre os membros da equipe
+14;Produtividade pessoal;Domínio técnico;Dominio de habilidades técnicas, competência e experiência
+15;Produtividade pessoal;Importância do membro na equipe;Ser um colaborador importante
+16;Produtividade pessoal;Capacidade de atingir objetivos;Orientado para a realizações
+17;Produtividade pessoal;Produtividade percebida;Produtividade pessoal percebida
+18;Tipo/impacto do trabalho;Impacto do trabalho efetuado;Fazer uma contribuição/importância da tarefa (grau em que o trabalho tem um impacto substancial na vida ou no trabalho de outras pessoas)
+19;Tipo/impacto do trabalho;Complexidade do trabalho;"Variedade de Trabalho (por exemplo, fazer bom uso de habilidades, ser
+esticado). variedade, significância, autonomia, carga de trabalho e nível de habilidade;"
+20;Tipo/impacto do trabalho;O trabalho requer muitas habilidades;"Trabalho tecnicamente desafiador; muitas habilidades necessárias para
+faça bem o trabalho"
+21;Tipo/impacto do trabalho;Poder completar tarefas;Capacidade de completar tarefas
+22;Tipo/impacto do trabalho;Habilidades são bem usadas;Fazer bom uso das habilidades, usar as habilidades de forma eficaz
+23;Tipo/impacto do trabalho;Tempo para aprender a realizar o trabalho;"Tempo para aprender as habilidades necessárias para
+faça bem o trabalho"
+24;Processos e sistemas;Processos;Processo/ciclo de vida de software – desenvolvimento de software, início de projeto e estudos de viabilidade, manutenção
+25;Processos e sistemas;Hardware;Condições de trabalho adequadas e bons equipamentos
+26;Processos e sistemas;Ferramentas;Uso de boas ferramentas para apoio ao trabalho
+27;Treinamento;Treinamento para ferramentas e tecnologias;"Oportunidades de treinamento para ampliar as habilidades; oportunidade de se especializar no domínio de ferramentas e tecnologias"
+28;Treinamento;Treinamento para soft skills;Oportunidades de treinamento para ampliar soft skills
+29;Treinamento;Disponibilidade de documentação;Quão bem a documentação atende às necessidades
+30;Ambiente de trabalho;Ambiente físico;Bom ambiente de trabalho (níveis adequados de pessoal, investimento e recursos, estabilidade e segurança)
+31;Ambiente de trabalho;Proximidade da equipe;Estar fisicamente separado da equipe
+32;Ambiente de trabalho;Espaço de trabalho privado;Ter um espaço de trabalho privado/espaço físico/tranquilo
+33;Ambiente de trabalho;Trabalho remoto;Organização de trabalho flexível.
+34;Ambiente de trabalho;Escritório particular;Ter um espaço de escritório privado
+35;"Vida profissional/
+Experiência no trabalho";Equilíbrio entre vida profissional/pessoal;Flexibilidade nos horários de trabalho, local de trabalho
+36;"Vida profissional/
+Experiência no trabalho";Estresse;
+37;"Vida profissional/
+Experiência no trabalho";Tempo para completar tarefas;Tempo suficiente para concluir as tarefas
+38;Recompensas, benefícios, carreira;Salário;Bom salário/salário competitivo/pagamento de horas extras adequado
+39;Recompensas, benefícios, carreira;Benéficios e recompensas;Recompensas e incentivos (por exemplo, escopo para aumento de salário e benefícios vinculados ao desempenho
+40;Recompensas, benefícios, carreira;Promoções;Plano de carreira (oportunidade de progressão, perspectiva de promoção, planejamento de carreira
+41;Recompensas, benefícios, carreira;Oportunidade de mudança;
+42;Recompensas, benefícios, carreira;Segurança no trabalho;  Segurança do trabalho/ambiente estável
+43;Recompensas, benefícios, carreira;Credibilidade;Comunicação aberta e organização competente
+44;Recompensas, benefícios, carreira;Justiça;Justiça na compensação e diversidade
+45;Recompensas, benefícios, carreira;Respeito;Oportunidades e responsabilidades
+46;Equipe;Camaradagem;Ambiente social e amigável
+47;Equipe;Objetivos claros; Quão claramente são definidos os objetivos do grupo?
+48;Equipe;Comunicação;O grau e a eficiência com que as informações fluem na equipe
+49;Equipe;Segurança psicológica; A atmosfera é segura para correr riscos
+50;Equipe;Senso de superioridade; O sentimento na equipe de que são superiores
+51;Equipe;Apoio à inovação;Até que ponto a assistência para novas ideias está disponível
+52;Equipe;Coesão da equipe;A cooperação entre as partes interessadas
+53;Equipe;Identidade da equipe;Uma identidade comum dos membros da equipe
+54;Equipe;Rotatividade;A quantidade de mudança no pessoal
+55;Habilidades e competências  individuais;Capacidade de analista;As habilidades do analista de sistemas
+56;Habilidades e competências  individuais;Experiência de domínio da aplicação;A familiaridade com o domínio da aplicação
+57;Habilidades e competências  individuais;Personalidade do desenvolvedor;Personalidade individual e a mistura de diferentes personalidades na equipe
+58;Habilidades e competências  individuais;Felicidade do desenvolvedor;Experiências positivas que levam a emoções positivas
+59;Habilidades e competências  individuais;Experiência de linguagem e ferramentas;A familiaridade com a linguagem de programação e ferramentas
+60;Habilidades e competências  individuais;Experiência de domínio de aplicação do gerente;A familiaridade do gerente com a aplicação
+61;Habilidades e competências  individuais;Capacidade do gerente;O controle do gerente sobre o projeto
+62;Habilidades e competências  individuais;Experiência da plataforma;A familiaridade com as plataformas de hardware e software
+63;Habilidades e competências  individuais;Capacidade do programador;As habilidades do programador
+64;Ambiente de trabalho;e-factor;Proporção de horas ininterruptas de trabalho por presença no trabalho
+65;Ambiente de trabalho;Layout do escritório;Layout de escritório privado ou de plano aberto
+66;Ambiente de trabalho;Separação física;Os membros da equipe estão distribuídos no prédio ou em vários locais
+67;Ambiente de trabalho;Local de trabalho adequado;A adequação do local de trabalho para fazer o trabalho criativo
+68;Ambiente de trabalho;Fragmentação do tempo;A quantidade necessária de “mudanças de contexto” de uma pessoa
+69;Ambiente de trabalho;Suporte a telecomunicação;Suporte para trabalho remoto, equipes virtuais, videoconferência com clientes
+70;Projeto;Tamanho médio da equipe;Número de pessoas na equipe
+71;Projeto;Estabilidade de requisitos;O número de mudanças de requisitos
+72;Projeto;Cronograma;A adequação do cronograma para tarefas de desenvolvimento
+73;Fatores de produto;Desenvolvido para reutilização;Até que ponto os componentes devem ser reutilizáveis?
+74;Fatores de produto;Flexibilidade de desenvolvimento; Quão fortes são as restrições no sistema?
+75;Fatores de produto;Restrições de tempo de execução; Quanto do tempo de execução disponível é consumido?
+76;Fatores de produto;Restrição de armazenamento principal; Quanto do armazenamento disponível é consumido?
+77;Fatores de produto;Precedência;Quão semelhantes são os projetos?
+78;Fatores de produto;Complexidade do produto;A complexidade da função e estrutura do software
+79;Fatores de produto;Qualidade do produto;A qualidade do produto influencia a motivação e, portanto, a produtividade
+80;Fatores de produto;Confiabilidade de software necessária;O nível de confiabilidade necessário
+81;Fatores de produto;Reuso;  A extensão da reutilização
+82;Fatores de produto;Tamanho do software; A quantidade de código no sistema
+83;Fatores de produto;Interface de usuário; O grau de complexidade da interface do usuário
+84;Fatores de produto;Dependências técnicas;Dependências relacionadas a dados ou funcionais, como gráficos de chamadas ou alterações acopladas
+85;Fatores de processo;Ágil;É utilizado um processo de desenvolvimento ágil?
+86;Fatores de processo;Risco de arquitetura;Resolução de risco de arquitetura. Como os riscos são mitigados pela arquitetura?
+87;Fatores de processo;Integridade do projeto;A quantidade do design que é concluída quando a codificação começa
+88;Fatores de processo;Prototipagem inicial; No início do processo, os protótipos são construídos.
+89;Fatores de processo;V&V eficaz e eficiente;O grau em que os defeitos são encontrados e o esforço necessário para isso
+90;Fatores de processo;Hardware concorrente;O hardware é desenvolvido concorrentemente?
+91;Fatores de processo;Terceirização e distribuição global;Grau de terceirização do trabalho do projeto
+92;Fatores de processo;Volatilidade da plataforma; Período de tempo entre as principais mudanças
+93;Fatores de processo;Maturidade do processo;A boa definição do processo
+94;Fatores de processo;Duração do projeto; Duração do projeto
+95;Fatores de processo;Tipo de projeto;Projeto de integração ou desenvolvimento
+96;Desenvolvimento;Documentação;Quão bem a documentação atende às necessidades. A documentação corresponde às necessidades do ciclo de vida
+97;Desenvolvimento;Aplicativo de domínio;Domínio, como software embarcado, sistema de informações de gerenciamento ou aplicação web
+98;Desenvolvimento;Linguagem de programação;A linguagem de programação utilizada
+99;Desenvolvimento;Uso de ferramentas;O grau de uso de ferramentas. Uso de ferramentas de software
+100;Desenvolvimento;Uso de práticas modernas;Uso de práticas modernas de desenvolvimento. Por exemplo, integração contínua, testes automatizados ou gerenciamento de configuração

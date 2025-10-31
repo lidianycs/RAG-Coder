@@ -1,0 +1,108 @@
+﻿id;category;factor;description
+1;Management;Manager;Good management (senior management support, team-building, good communication)/caring manager
+2;Management;Autonomy;Freedom to carry out tasks, allowing roles to evolve
+3;Management;Clear priorities;
+4;Management;Well-defined goals;given a clear job to do and goals
+5;Management;Appreciation shown for work;Needs for respect and appreciation
+6;Management;Feedback;Need for feedback (recognition for work)
+7;Management;Meet planning;Organized meetings, with planning and proper use of time.
+8;Organization ;Vision;
+9;Team;Collaborative team;Collaborative team culture
+10;Team;Team culture;
+11;Team;Skilled co-workers;"Colleagues keep up to speed with modern development
+technology and practices"
+12;Team;Social interactions;Interactions, events and social connections between team members
+13;Team;Empathy;Social skills that can affect collaboration, communication, and relationships among team members.
+14;Personal productivity;Technical mastery;Mastery personal technical skills, competency and experience
+15;Personal productivity;Important member of one’s team;Being an important contributor
+16;Personal productivity;Ability to achieve goals;Achievement orientated
+17;Personal productivity;Perceived productivity;Personal perceived productivity
+18;Work type/impact;Impactful work;Making a contribution/task significance (degree to which the job has a substantial impact on the lives or work of other people)
+19;Tipo/impacto do trabalho;Work complexity;"Variety of Work (e.g. making good use of skills, being
+stretched). variety, significance, autonomy, work load, and skill level;"
+20;Tipo/impacto do trabalho;Job requires a lot of skill;"Technically challenging work; lot of skills required to
+do the job well"
+21;Tipo/impacto do trabalho;Can complete tasks;Ability to complete tasks
+22;Tipo/impacto do trabalho;Skills are well used;Making good use of skills, using one’s skills effectively
+23;Tipo/impacto do trabalho;Time it takes to learn job;"Time to learn the skills required to
+do the job well"
+24;Engineering systems and processes;Processes;Software process/lifecycle – software development, project initiation and feasibility studies, maintenance
+25;Engineering systems and processes;Hardware;Appropriate working conditions good equipment
+26;Engineering systems and processes;Tools;Appropriate working conditions good tools
+27;Training/ documentation;Training for engineering  tools and technologies;" training opportunities to widen skills; opportunity to specialise"
+28;Training/ documentation;Training for soft skills;" training opportunities to widen skills; opportunity to specialise"
+29;Training/ documentation;Availability of documentation;How well the documentation fits the needs
+30;Working environment;Physical working environment;Good working environment (adequate staffing levels, investment and resources, stability and security)
+31;Working environment;Proximity to team;Being physically separated from team
+32;Working environment;Private working space;Having a private working space/physical space/quiet
+33;Working environment;Remote working;Flexible work organization.
+34;Working environment;Private office;Having a private office space
+35;"Work life/work experience
+";Work life balance;Flexibility in work times, work location
+36;"Work life/work experience
+";Stress;
+37;"Work life/work experience
+";Time to complete tasks;Adequate time to complete tasks
+38;Rewards, benefits, career;Salary;Good salary/competitive pay/adequate overtime pay
+39;Rewards, benefits, career;Benefits and Rewards;Rewards and incentives (e.g. scope for increased pay and benefits linked to performance
+40;Rewards, benefits, career;Promotions;Career path (opportunity for advancement, promotion prospect, career planning
+41;Rewards, benefits, career;Lateral move opportunities;
+42;Rewards, benefits, career;Job security;Job security/stable environment
+43;Rewards, benefits, career;Credibility;Open communication and competent organization
+44;Rewards, benefits, career;Fairness;Fairness in compensation and diversity
+45;Rewards, benefits, career;Respect;Opportunities and responsibilities
+46;Team;Camaraderie;Social and friendly atmosphere.
+47;Team;Clear goals;How clearly defined are the group goals?
+48;Team;Communication;The degree and efficiency of which information flows in the team.
+49;Team;Psychological safety;The atmosphere is safe for risk-taking.
+50;Team;Sense of eliteness;The feeling in the team that they are superior.
+51;Team;Support for innovation;To what degree assistance for new ideas is available.
+52;Team;Team cohesion;The cooperativeness of the stakeholders.
+53;Team;Team identity;A common identity of the team members.
+54;Team;Turnover;The amount of change in the personnel.
+55;Individual Skills and Experiences;Analyst capability;The skills of the system analyst
+56;Individual Skills and Experiences;Application domain experience;The familiarity with the application domain
+57;Individual Skills and Experiences;Developer personality;Individual personality and the mix of different personalities on the team
+58;Individual Skills and Experiences;Developer happiness;Positive experiences leading to positive emotions
+59;Individual Skills and Experiences;Language and tool experience;The familiarity with the programming language and tools
+60;Individual Skills and Experiences;Manager application domain experience;The familiarity of the manager with the application
+61;Individual Skills and Experiences;Manager capability;The control of the manager over the project.
+62;Individual Skills and Experiences;Platform experience;The familiarity with the hardware and software platforms
+63;Individual Skills and Experiences;Programmer capability;The skills of the programmer
+64;Work enviroment;E-factor;This environmental factor describes the ratio of uninterrupted hours and body-present hours.
+65;Work enviroment;Office layout;Private or open-plan office layout.
+66;Work enviroment;Physical separation;The team members are distributed over the building or multiple sites.
+67;Work enviroment;Proper workplace;The suitability of the workplace to do creative work.
+68;Work enviroment;Time fragmentation;The amount of necessary “context switches“ of a person.
+69;Work enviroment;Telecommunication facilities;Support for work at home, virtual teams, video conferencing with clients.
+70;Project;Average team size;Number of people on the team
+71;Project;Requirements stability;The number of requirements changes
+72;Project;Schedule;The appropriateness of the schedule for the development task
+73;Product;Developed for reusability;To what extent should the components be reusable?
+74;Product;Development flexibility;How strong are the constraints on the system?
+75;Product;Execution time constraints;How much of the available execution time is consumed?
+76;Product;Main storage constraint;How much of the available storage is consumed?
+77;Product;Precedentedness;How similar are the projects?
+78;Product;Product complexity;The complexity of the function and structure of the software
+79;Product;Product quality;The quality of the product influences motivation and hence productivity.
+80;Product;Required software reliability;The level of reliability needed.
+81;Product;Reuse;The extent of reuse.
+82;Product;Software size;The amount of code in the system.
+83;Product;User interface;The degree of complexity of the user interface.
+84;Product;Technical dependencies;Data-related or functional dependencies such as call graphs or coupled changes.
+85;Process;Agile;Is an agile development process used?
+86;Process;Architecture risk resolution;How are the risks mitigated by architecture?
+87;Process;Completeness of design;The amount of the design that is completed when
+88;Process;;coding starts.
+89;Process;Early prototyping;Early in the process prototypes are built.
+90;Process;Effective and efficient V&V;The degree to which defects are found and the required effort therein.
+91;Process;Outsourcing and global distribution;Degree of outsourcing of the work of the project.
+92;Process;Platform volatility;Time span between major changes.
+93;Process;Process maturity;The well-definedness of the process.
+94;Process;Project duration;Length of the project.
+95;Process;Project type;Integration or development project.
+96;Development Enviroment;Documentation match to life-cycle needs;How well the documentation fits the needs
+97;Development Enviroment;Domain Application;Domain such as embedded software, management information system, or web application
+98;Development Enviroment;Programming language;The programming language used
+99;Development Enviroment;Use of software tools;The degree of tool use
+100;Development Enviroment;Use of modern development practices;For example, continuous integration, automated testing, or configuration management
