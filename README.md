@@ -104,7 +104,7 @@ furnished to do so, subject to the following conditions.
 If you use RAG-Coder in your research, please cite:
 
 ```
-Cerqueira, L. (2025). RAG-Coder: A Framework for Augmenting Qualitative Analysis in Empirical Software Engineering.
+Cerqueira, L. (2025). RAG-Coder: A Framework for Augmenting Qualitative Analysis in Empirical Software Engineering - Alpha Release (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.17494982
 ```
 
 ---
