@@ -6,12 +6,6 @@
 
 It applies a formal **codebook** to new textual data, assisting researchers in coding consistency, scalability, and reproducibility.  
 The framework ensures **auditability** by generating detailed logs (audit trail, model outputs, and error reports) that support validation and transparency in empirical research.
-
-This framework was developed as part of the paper:
-
-> *“RAG-Coder: A Framework for Augmenting Qualitative Analysis in Empirical Software Engineering”*  
-> by Lidiany Cerqueira and Renan Guerra, 2025.
-
 ---
 
 ## 🧩 Project Structure
