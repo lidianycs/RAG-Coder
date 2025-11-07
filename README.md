@@ -49,7 +49,7 @@ evaluation/
 3. **Set your API key**
 
    ```bash
-   (Windows)   set GOOGLE_API_KEY="your_key"
+   (Windows)   $env:GOOGLE_API_KEY="your_key"
    (macOS/Linux) export GOOGLE_API_KEY="your_key"
    ```
 
