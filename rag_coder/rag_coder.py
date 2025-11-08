@@ -5,10 +5,8 @@ RAG-Coder: A Framework for Augmenting Qualitative Analysis in ESE
 
 * **File:** rag_coder.py
 * **Author:** Lidiany Cerqueira
-* **Contact:** @lidianycs
-* **Affiliation:** Federal University of Sergipe
 * **Date:** October 31, 2025
-* **Version:** 1.0.0
+* **Version:** 1.0.1
 
 ---
 **Description**
@@ -161,13 +159,12 @@ def clean_json_output(raw_output):
     if match: return match.group(1).strip()
     return raw_output.strip()
 
-# --- Main Execution Logic ---
 
 def main():
-    # Load all settings from the config file
+    
     config = load_config()
 
-    # Initialize the model using config settings
+   
     model = genai.GenerativeModel(
         model_name=config["api_settings"]["model_name"],
         generation_config=config["generation_config"]
@@ -176,7 +173,7 @@ def main():
     start_time = time.time()
     print("Loading data files...")
     
-    # Use config paths to load files
+   
     codebook_df = load_data(config["input_files"]["codebook_file"])
     study1_df = load_data(config["input_files"]["example_file_1"])
     study2_df = load_data(config["input_files"]["example_file_2"])
@@ -237,7 +234,7 @@ def main():
             label = 'NA' if coded_output == 'NA' else 'NC'
             flattened_results.append({'response_id': response_id, 'response_text': response_text, 'label': label})
 
-    # Use config paths to save output files
+    
     output_df = pd.DataFrame(flattened_results)
     output_df.insert(0, 'id', range(1, 1 + len(output_df)))
     output_df[['id', 'response_id', 'response_text', 'label']].to_csv(config["output_files"]["results_file"], index=False, sep=';', encoding='utf-8-sig')
