@@ -38,27 +38,22 @@ SOFTWARE.
 import pandas as pd
 from sklearn.metrics import cohen_kappa_score
 
-# === Load dataset ===
+
 # The CSV must have columns: id;response_id;human_label;ragcoder_label;consensus
 file_path = "dataset_varinha_consenso.csv"
 df = pd.read_csv(file_path, sep=';')
 
-# === Clean and prepare data ===
+
 df['human_label'] = df['human_label'].astype(str).str.strip()
 df['ragcoder_label'] = df['ragcoder_label'].astype(str).str.strip()
 
-# === Compute Cohen’s kappa ===
+
 kappa = cohen_kappa_score(df['human_label'], df['ragcoder_label'])
 
-# === Compute % of responses not requiring adjudication ===
+
 percent_consensus = df['consensus'].mean() * 100
 
-# === Display results ===
-print("=== RAG-Coder Evaluation Metrics ===")
-print(f"Cohen’s κ (RAG vs. Human): {kappa:.3f}")
-print(f"% of responses not requiring adjudication: {percent_consensus:.2f}%")
-
-# Optional: interpret kappa level (Landis & Koch, 1977)
+# === Interpret kappa level (Landis & Koch, 1977) ===
 if kappa < 0.0:
     level = "Poor"
 elif kappa < 0.20:
@@ -72,4 +67,19 @@ elif kappa < 0.80:
 else:
     level = "Almost perfect"
 
+
+print("=== RAG-Coder Evaluation Metrics (RQ2) ===")
+print(f"Cohen’s κ (RAG vs. Human): {kappa:.3f}")
+print(f"% of responses not requiring adjudication: {percent_consensus:.2f}%")
 print(f"Interpretation: {level} agreement")
+
+
+output = pd.DataFrame({
+    "Metric": ["Cohen’s kappa", "Percent consensus", "Interpretation"],
+    "Value": [f"{kappa:.3f}", f"{percent_consensus:.2f}%", level]
+})
+
+output_file = "ragcoder_rq2_results.csv"
+output.to_csv(output_file, index=False, encoding='utf-8-sig', sep=';')
+
+print(f"\nResults saved to '{output_file}'")

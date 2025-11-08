@@ -116,7 +116,9 @@ Cerqueira, L. (2025). RAG-Coder: A Framework for Augmenting Qualitative Analysis
 ---
 
 ## Contact
-For questions or additional information, please contact:
+For questions or additional information, please contact the **corresponding author:** 
+ 
+**Dr Lidiany Cerqueira**  
+Email: *lidianycs@ufs.br*  
+ORCID: [0000-0002-4989-0986](https://orcid.org/0000-0002-4989-0986)
 
-Lidiany Cerqueira
-lidianycs@gmail.com
